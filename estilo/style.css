@@ -35,12 +35,17 @@ iframe#tela {
     height: 600px;
 }
 
+section#redes-sociais {
+    text-align: right;
+}
+
 section#redes-sociais > a > img {
     border-radius: 50%;
     width: 50px;
     margin: 10px;
     box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.404);
     box-sizing:border-box;
+    
 }
 
 section#redes-sociais > a > img#garage {
